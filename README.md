@@ -3,5 +3,5 @@ The aim of this library is to extend the fusion library with models and collecti
 
 ### Installing Fusion Model
 ```
-composer require sackrin/fusion-models
+composer require sackrin/fusion-model
 ```
